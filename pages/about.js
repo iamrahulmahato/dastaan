@@ -52,9 +52,7 @@ function about({ topics }) {
             </span>{" "}
           </h2>
           <p className="text-gray-600 mt-4 dark:text-orange-200">
-            An aspiring Full-Stack web developer and Django Developer, still a
-            learner with the idea of implementing my work and growing into an
-            open-source contributor and a student XD.
+          I am an 20 years old developer and a student. I am passionate about technology, business, writing story and startup. People usually brag about themselves in blogs but I will try to keep everything genuine and authentic
           </p>
 
           <div className="text-center pt-8">
