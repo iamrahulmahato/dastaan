@@ -73,7 +73,7 @@ function about({ topics }) {
                 className="twitter-follow-button"
                 rel="noopener noreferrer"
                 target="_blank"
-                href="https://twitter.com/iamrahulmahato"
+                href="https://www.instagram.com/iamrahulmahato/"
               >
                 Follow Me
               </a>
